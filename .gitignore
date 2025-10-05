@@ -1,0 +1,22 @@
+# Build
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.log
+
+# User-specific
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Others
+*.nupkg
+*.snupkg
+*.cache
+*.vs/
+TestResults/
