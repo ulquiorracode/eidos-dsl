@@ -11,4 +11,8 @@
 - Add AST models (IdentNode, ListNode, CompoundNode, NegationNode)
 - Add sealed stubs: EidosParser, EidosRegistry (immutable builder style), EidosResolver
 - Add GlobalUsings convenience file
- 
+
+## [0.2.1-alpha] - Tests and coverage for core scaffolding
+- Add parser tests for simple/empty/whitespace cases
+- Add registry tests for empty, parent->children, and star-resolution
+- Add resolver tests for ident, list, negation, and compound cases
