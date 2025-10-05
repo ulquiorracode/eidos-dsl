@@ -11,3 +11,4 @@
 - Add AST models (IdentNode, ListNode, CompoundNode, NegationNode)
 - Add sealed stubs: EidosParser, EidosRegistry (immutable builder style), EidosResolver
 - Add GlobalUsings convenience file
+ 
