@@ -21,3 +21,11 @@
 - Add GitHub Actions workflow for build and test
 - Add community health files (issue/PR templates, contributing, code of conduct, roadmap)
 - Add initial grammar documentation (EN and RU)
+
+## [0.3.0] - Architecture unification and parser preparation
+- Refactor internal project structure (move abstractions to per-module folders)
+- Introduce IEidos interface and update EidosBase inheritance
+- Split AST nodes into separate files under Nodes/
+- Simplify Models layout (flattened into domain areas)
+- Update diagnostics and node hierarchy for SRP compliance
+- Prepare groundwork for parser grammar implementation
