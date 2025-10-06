@@ -16,3 +16,8 @@
 - Add parser tests for simple/empty/whitespace cases
 - Add registry tests for empty, parent->children, and star-resolution
 - Add resolver tests for ident, list, negation, and compound cases
+
+## [0.2.2] - CI/CD and documentation
+- Add GitHub Actions workflow for build and test
+- Add community health files (issue/PR templates, contributing, code of conduct, roadmap)
+- Add initial grammar documentation (EN and RU)
